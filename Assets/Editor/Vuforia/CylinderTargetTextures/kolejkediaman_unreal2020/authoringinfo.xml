@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="speaker" version="3.0" targetId="cb302d5237ea49e2869843f7fb7cd18e" sideLength="0.180000" topDiameter="0.065000" bottomDiameter="0.065000" sideImage="speaker.Body_scaled.jpg" topImage="speaker.Top_scaled.jpg" bottomImage="speaker.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413086308275",
+    "firebase_url": "https://unreal2020-38e7b.firebaseio.com",
+    "project_id": "unreal2020-38e7b",
+    "storage_bucket": "unreal2020-38e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413086308275:android:48d16013923566ec77ddc6",
+        "android_client_info": {
+          "package_name": "com.UNREAL.UNREAL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413086308275-8a56s63rq98ctevqeccm4m2s44b9tk3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjdE66Fkc-QVqvVTFTbhQgXpfW0hdDok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413086308275-8a56s63rq98ctevqeccm4m2s44b9tk3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
